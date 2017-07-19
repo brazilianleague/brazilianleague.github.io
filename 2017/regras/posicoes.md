@@ -9,7 +9,7 @@ Para o ano de 2017, **Brazilian League** contará com `10` posições, são elas
 1. [_Flex_ (RB/WR/TE)](#flex)
 1. [_Flex_ (RB/WR/TE)](#flex)
 1. [_Defensive Player Utility_ (DP)](#defensive-player-utility)
-1. [_Team Defense/Special Teams_ (D/ST)](#team-defense-special-teams)
+1. [_Team Defense/Special Teams_ (D/ST)](#team-defensespecial-teams)
 1. [_Place Kicker_ (K)](#place-kicker)
 1. [_Head Coach_ (HC)](#head-coach)
 
@@ -23,8 +23,8 @@ A pontuação é dividida em **8** categorias, são elas:
 1. [_Miscellaneous_](#miscellaneous)
 1. [_Kicking_](#kicking)
 1. [_Defensive Players_](#defensive-players)
-1. [_Head Coach_](#head-coach2)
-1. [_Team Defense/Special Teams_](#team-defense-special-teams)
+1. [_Head Coach_](#head-coach-1)
+1. [_Team Defense/Special Teams_](#team-defensespecial-teams-1)
 
 ------
 
@@ -82,7 +82,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Sigla**: D/ST
 * **Descrição**: Posições de um time de futebol americano que contempla as ações da equipe defensiva e da equipe de especialistas do time.
 * **Quantidade Máxima no Time**: 2
-* **Pontuação Principal**: [_Team Defense/Special Teams_](#team-defense-special-teams)
+* **Pontuação Principal**: [_Team Defense/Special Teams_](#team-defensespecial-teams-1)
 * **Pontuação Extraordinária**: [_Miscellaneous_](#miscellaneous)
 
 ## Place Kicker
@@ -98,7 +98,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Sigla**: HC
 * **Descrição**: Posição de um time de futebol cuja função é garantir que o time vença.
 * **Quantidade Máxima no Time**: 1
-* **Pontuação**: [_Head Coach_](#head-coach2)
+* **Pontuação**: [_Head Coach_](#head-coach-1)
 
 ## Bench
 
