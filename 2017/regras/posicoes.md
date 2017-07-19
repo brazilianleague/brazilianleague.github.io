@@ -1,6 +1,6 @@
 # Posições e Pontuação
 
-Para o ano de 2017, **Brazilian League** contará com `10` posições, são elas:
+Para o ano de 2017, **Brazilian League** contará com **10** posições, são elas:
 
 1. [_Team Quarterback_ (TQB)](#team-quarterback)
 1. [_Running Back_ (RB)](#running-back)
@@ -30,7 +30,7 @@ A pontuação é dividida em **8** categorias, são elas:
 
 # Posições
 
-## Team Quarterback
+## _Team Quarterback_
 
 * **Sigla**: TQB
 * **Descrição**: Posição de um time de futebol americano cuja função é iniciar as jogadas do time e fazer passes para os _wide receivers_ e _tight ends_.
@@ -38,7 +38,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Passing_](#passing)
 * **Pontuações Extraordinárias**: [_Rushing_](#rushing), [_Miscellaneous_](#miscellaneous)
 
-## Running Back
+## _Running Back_
 
 * **Sigla**: RB
 * **Descrição**: Posição de um jogador de futebol americano cuja função é correr com a bola que pode ser passada por ele pelo _quarterback_ ou em um _snap_ direto do _center_.
@@ -46,7 +46,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Rushing_](#rushing)
 * **Pontuações Extraordinárias**: [_Receiving_](#receiving), [_Miscellaneous_](#miscellaneous)
 
-## Wide Receiver
+## _Wide Receiver_
 
 * **Sigla**: WR
 * **Descrição**: Posição de um jogador de futebol americano cuja função é pegar passes do _quarterback_.
@@ -54,7 +54,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Receiving_](#receiving)
 * **Pontuações Extraordinárias**: [_Rushing_](#rushing), [_Miscellaneous_](#miscellaneous)
 
-## Tight End
+## _Tight End_
 
 * **Sigla**: TE
 * **Descrição**: Posição de um jogador de futebol americano cuja função é bloquear para o _running back_ e _quarterback_, além de receber passes do mesmo.
@@ -62,14 +62,14 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Receiving_](#receiving)
 * **Pontuações Extraordinárias**: [_Rushing_](#rushing), [_Miscellaneous_](#miscellaneous)
 
-## Flex
+## _Flex_
 
 * **Sigla**: RB/WR/TE
 * **Descrição**: Uma das seguintes posições de um jogador de futebol americano: _Running back_, _wide receiver_ ou _tight end_.
 * **Quantidade Máxima no Time**: Até 3 de cada posição
 * **Pontuação**: De acordo com a posição escolhida
 
-## Defensive Player Utility
+## _Defensive Player Utility_
 
 * **Sigla**: DP
 * **Descrição**: Uma das seguintes posições de um jogador de futebol americano: _Defensive Tackle_, _defensive end_, _linebacker_, _cornerback_ ou _safety_.
@@ -77,7 +77,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Defensive Players_](#defensive-players)
 * **Pontuação Extraordinária**: [_Miscellaneous_](#miscellaneous)
 
-## Team Defense/Special Teams
+## _Team Defense/Special Teams_
 
 * **Sigla**: D/ST
 * **Descrição**: Posições de um time de futebol americano que contempla as ações da equipe defensiva e da equipe de especialistas do time.
@@ -85,7 +85,7 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Team Defense/Special Teams_](#team-defensespecial-teams-1)
 * **Pontuação Extraordinária**: [_Miscellaneous_](#miscellaneous)
 
-## Place Kicker
+## _Place Kicker_
 
 * **Sigla**: K
 * **Descrição**: Posição de um jogador de futebol americano cuja função é chutar _field goals_, _extra points_ e _kickoffs_.
@@ -93,14 +93,14 @@ A pontuação é dividida em **8** categorias, são elas:
 * **Pontuação Principal**: [_Kicking_](#kicking)
 * **Pontuação Extraordinária**: [_Miscellaneous_](#miscellaneous)
 
-## Head Coach
+## _Head Coach_
 
 * **Sigla**: HC
 * **Descrição**: Posição de um time de futebol cuja função é garantir que o time vença.
 * **Quantidade Máxima no Time**: 1
 * **Pontuação**: [_Head Coach_](#head-coach-1)
 
-## Bench
+## _Bench_
 
 _Bench_ é um conjunto de posições que determinam a reserva de um time. Há, ao todo, **5** posições de _bench_ disponíveis para cada time.
 
@@ -119,7 +119,7 @@ Qualquer posição pode ocupar uma posição de _bench_, desde que satisfaça a 
 * **Place Kicker**: 2
 * **Head Coach**: 1
 
-## Injured Reserve
+## _Injured Reserve_
 
 Em casos excepcionais, até **3** posições da _injured reserve_ podem ser ocupadas por jogadores lesionados.
 
