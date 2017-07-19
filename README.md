@@ -1,13 +1,13 @@
-# Calendário
+# Brazilian League - 2017
+
+## Calendário
 
 > Em breve
 
-# Times
+## Times
 
 > Em breve
 
-# Regras
+## Regras
 
-* [Posições e Pontuação](regras/posicoes)
-* [Inscrição e Premiação](regras/inscricao)
-* [Estrutura da Liga](regras/estrutura)
+* [Posições e Pontuação](2017/regras/posicoes)
